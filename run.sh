@@ -1,1 +1,1 @@
-java -jar /Users/jknudsen/Applications/PassVault/build/jar/PassVault.jar
+java -jar build/jar/PassVault.jar
